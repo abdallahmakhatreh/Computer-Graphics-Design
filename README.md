@@ -33,16 +33,16 @@ A geometric vector blueprint built entirely using mathematical lines and anchors
 
 To show the academic committee my actual workflow and design methodology, this project preserves the full, step-by-step chronological evolution of the Automotive Matte project. 
 
-| Phase | Milestone Description | Visual Asset |
+| Phase | Milestone Description | Visual Asset Preview |
 | :--- | :--- | :--- |
-| **Step 1** | Canvas Setup & Geometrical Background Partitioning | `Step (1).png` |
-| **Step 2** | Central Focal Point Mapping & Oval Frame Masking | `Step (2).png` |
-| **Step 3** | Establishing Background Color Blocks & Contrast Segments | `Step (3).png` |
-| **Step 4** | Grid Balancing & Frame Outline Formatting | `Step (4).png` |
-| **Step 5** | Integrating Primary Foreground Automotive Asset | `Step (5).png` |
-| **Step 6** | Positioning Secondary Background Assets for Symmetry | `Step (6).png` |
-| **Step 7** | Custom Framing Extensions & Outer Border Enhancements | `Step (7).png` |
-| **Step 8** | Final Color Grading, Light Matching, and Typography Overlays | `Step (8).png` |
+| **Step 1** | Canvas Setup & Geometrical Background Partitioning | <img src="Step (1).png" width="120" alt="Step 1"> |
+| **Step 2** | Central Focal Point Mapping & Oval Frame Masking | <img src="Step (2).png" width="120" alt="Step 2"> |
+| **Step 3** | Establishing Background Color Blocks & Contrast Segments | <img src="Step (3).png" width="120" alt="Step 3"> |
+| **Step 4** | Grid Balancing & Frame Outline Formatting | <img src="Step (4).png" width="120" alt="Step 4"> |
+| **Step 5** | Integrating Primary Foreground Automotive Asset | <img src="Step (5).png" width="120" alt="Step 5"> |
+| **Step 6** | Positioning Secondary Background Assets for Symmetry | <img src="Step (6).png" width="120" alt="Step 6"> |
+| **Step 7** | Custom Framing Extensions & Outer Border Enhancements | <img src="Step (7).png" width="120" alt="Step 7"> |
+| **Step 8** | Final Color Grading, Light Matching, and Typography Overlays | <img src="Step (8).png" width="120" alt="Step 8"> |
 
 ---
 
